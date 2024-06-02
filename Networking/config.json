@@ -1,0 +1,10 @@
+{
+  "ConnectionString": {
+    "MySQL" : "server=localhost;uid=root;pwd=;port=3306;database=mmorpg2;sslmode=none"
+  },
+  "DataVars": {
+    "Max_Players": 1500
+  }, 
+  "host": "0.0.0.0",
+  "port": 3456
+}
