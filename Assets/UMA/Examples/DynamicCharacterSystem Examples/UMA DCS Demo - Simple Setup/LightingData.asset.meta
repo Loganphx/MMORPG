@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 37b7ff27785d911489fabb826ca714d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/UMA DCS Demo - Simple
+    Setup/LightingData.asset
+  uploadId: 429914

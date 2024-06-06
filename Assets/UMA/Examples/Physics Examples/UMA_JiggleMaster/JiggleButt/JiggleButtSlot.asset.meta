@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8330dd99316da2b45a5b8f209f6ac121
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/Physics Examples/UMA_JiggleMaster/JiggleButt/JiggleButtSlot.asset
+  uploadId: 429914

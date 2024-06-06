@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce42e52cde1fa497a9cefe4127e2b5b8
+timeCreated: 1487128301
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanFemale/Overlays/Hair/FemaleLongHair_Cap.asset
+  uploadId: 429914

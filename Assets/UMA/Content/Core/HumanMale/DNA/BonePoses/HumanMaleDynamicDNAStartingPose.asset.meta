@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ae99fcc22c8dc84fb9af444f4831a53
+timeCreated: 1488855521
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/DNA/BonePoses/HumanMaleDynamicDNAStartingPose.asset
+  uploadId: 429914

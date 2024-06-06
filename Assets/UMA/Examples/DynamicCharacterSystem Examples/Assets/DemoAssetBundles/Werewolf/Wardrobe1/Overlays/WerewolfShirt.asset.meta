@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a04e469a0d80a6742a85658cd80912ab
+timeCreated: 1459190656
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/Werewolf/Wardrobe1/Overlays/WerewolfShirt.asset
+  uploadId: 429914

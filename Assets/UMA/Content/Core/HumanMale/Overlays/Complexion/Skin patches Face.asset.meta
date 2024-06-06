@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1320201c90abfb148ba70377406b5dc4
+timeCreated: 1439232043
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Overlays/Complexion/Skin patches Face.asset
+  uploadId: 429914

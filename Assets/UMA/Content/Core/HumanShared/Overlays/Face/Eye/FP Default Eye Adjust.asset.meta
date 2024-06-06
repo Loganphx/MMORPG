@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b50b1d40e34242d4da5d97c1e5f8804e
+timeCreated: 1474569500
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanShared/Overlays/Face/Eye/FP Default Eye
+    Adjust.asset
+  uploadId: 429914

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 34dcbac549d5c964f8c01cb8719d0a99
+timeCreated: 1512612169
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/Physics Examples/Assets/Slots/BoneyTail/BoneyTail_1_Slot.asset
+  uploadId: 429914

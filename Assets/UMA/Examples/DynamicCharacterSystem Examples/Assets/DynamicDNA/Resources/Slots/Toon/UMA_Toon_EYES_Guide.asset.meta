@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48a01bab7f0078a49a6375335b25a2ac
+timeCreated: 1466860739
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DynamicDNA/Resources/Slots/Toon/UMA_Toon_EYES_Guide.asset
+  uploadId: 429914

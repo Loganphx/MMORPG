@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 407eef4d2f8612444bdf249bedb33cce
+timeCreated: 1459186420
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/Werewolf/RaceBase/BaseRecipe/BaseRecipeSlots/UMA_Werewolf_Feet_Slot.asset
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89fa91c5004125e469e208bead223eab
+timeCreated: 1485115955
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe1/Recipes/ToonCropTShirt1.asset
+  uploadId: 429914

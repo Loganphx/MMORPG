@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 1f292487d7383514f97c491cadfb0442
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/AdditionalSlots/CapsuleCollider/CapsuleColliderRecipe.asset
+  uploadId: 429914

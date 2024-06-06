@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b66591cce48d21043a814071716e6281
+timeCreated: 1457758121
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonShared/Wardrobe1/Overlays/Clothes/Smart_Pants_1_detail.asset
+  uploadId: 429914

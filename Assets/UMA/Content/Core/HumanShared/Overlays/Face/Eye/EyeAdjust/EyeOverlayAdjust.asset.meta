@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a63f3d521484f345b330eaa6ddd496e
+timeCreated: 1437778801
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanShared/Overlays/Face/Eye/EyeAdjust/EyeOverlayAdjust.asset
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 863f68599d8ad8b4989c7724bb3b8dd1
+timeCreated: 1437689751
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/UnityChallengerArmorSet/Slots/MaleChallengerTorsoArmor_Slot.asset
+  uploadId: 429914

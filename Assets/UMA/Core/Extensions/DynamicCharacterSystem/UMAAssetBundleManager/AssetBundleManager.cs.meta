@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6309cb12c9f62482c8451f716f97d470
+timeCreated: 1461642108
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -20121
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Core/Extensions/DynamicCharacterSystem/UMAAssetBundleManager/AssetBundleManager.cs
+  uploadId: 429914

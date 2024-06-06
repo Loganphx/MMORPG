@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52ecbbea436af6c4596d67e66a65d7ef
+timeCreated: 1498679027
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Contrib/FemaleSportPants/FemaleSportPants_Overlay.asset
+  uploadId: 429914

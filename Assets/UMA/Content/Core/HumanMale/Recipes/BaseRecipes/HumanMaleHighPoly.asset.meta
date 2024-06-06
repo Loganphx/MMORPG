@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 812bdfd823b789145a41e3e5a7997d33
+timeCreated: 1491619372
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Recipes/BaseRecipes/HumanMaleHighPoly.asset
+  uploadId: 429914

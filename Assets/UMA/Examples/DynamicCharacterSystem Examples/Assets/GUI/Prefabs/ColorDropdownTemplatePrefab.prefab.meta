@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2a60db0c785d7e4b8b8ad98be9b6994
+timeCreated: 1459794167
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/GUI/Prefabs/ColorDropdownTemplatePrefab.prefab
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08d38a4fd7bb29642a9e0048e9ccaf79
+timeCreated: 1488572104
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Recipes/WardrobeRecipes/MaleHandsMid.asset
+  uploadId: 429914

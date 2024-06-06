@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4d1e2980034c61e4197e51e6d5d2b2fc
+timeCreated: 1489013335
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanMale/Recipes/WardrobeRecipes/MaleFace
+    Old.asset
+  uploadId: 429914

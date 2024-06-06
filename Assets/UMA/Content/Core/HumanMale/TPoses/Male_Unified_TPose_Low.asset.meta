@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86eb517a597d9401e96ea8a676495cc0
+timeCreated: 1425860086
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/TPoses/Male_Unified_TPose_Low.asset
+  uploadId: 429914

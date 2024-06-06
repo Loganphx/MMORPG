@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca20f7bc9c16c314991839b46ccfd3f4
+timeCreated: 1460045304
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe1/Slots/Clothes/Tops_Female_Crop_TShirt_1_Slot.asset
+  uploadId: 429914

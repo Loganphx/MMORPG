@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7057b3bb6c38031459bffc3b43b345e3
+timeCreated: 1459185173
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/Werewolf/RaceBase/BaseRecipe/WerewolfBase.asset
+  uploadId: 429914

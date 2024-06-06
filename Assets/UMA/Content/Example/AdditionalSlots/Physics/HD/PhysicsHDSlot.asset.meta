@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc5ef2dcc0274644bb1733e78ad1514d
+timeCreated: 1489809056
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/AdditionalSlots/Physics/HD/PhysicsHDSlot.asset
+  uploadId: 429914

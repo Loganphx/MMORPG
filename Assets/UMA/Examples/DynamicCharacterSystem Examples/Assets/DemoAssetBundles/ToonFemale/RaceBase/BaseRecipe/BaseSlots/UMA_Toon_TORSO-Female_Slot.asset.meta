@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 899377113242564478958a9647388a80
+timeCreated: 1457758016
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/RaceBase/BaseRecipe/BaseSlots/UMA_Toon_TORSO-Female_Slot.asset
+  uploadId: 429914

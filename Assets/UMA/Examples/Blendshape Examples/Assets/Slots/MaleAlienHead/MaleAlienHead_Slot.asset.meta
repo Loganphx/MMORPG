@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 344a9e3f0f0a6384da7335c405e65999
+timeCreated: 1515447388
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/Blendshape Examples/Assets/Slots/MaleAlienHead/MaleAlienHead_Slot.asset
+  uploadId: 429914

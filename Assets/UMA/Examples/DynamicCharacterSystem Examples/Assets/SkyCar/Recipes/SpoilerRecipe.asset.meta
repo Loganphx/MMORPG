@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 369fe6f664ed6f84d99118735752b396
+timeCreated: 1534118629
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/SkyCar/Recipes/SpoilerRecipe.asset
+  uploadId: 429914

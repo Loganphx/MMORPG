@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6358aa8f36b22846bb85f26a30e8c6a
+timeCreated: 1438638437
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Slots/Body/HighPoly/Male_High_Torso_Slot.asset
+  uploadId: 429914

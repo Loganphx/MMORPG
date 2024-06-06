@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f8517ff4e839574d90631d851147e81
+timeCreated: 1499264347
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Contrib/MaleHoodie/MaleHoodie_Overlay.asset
+  uploadId: 429914

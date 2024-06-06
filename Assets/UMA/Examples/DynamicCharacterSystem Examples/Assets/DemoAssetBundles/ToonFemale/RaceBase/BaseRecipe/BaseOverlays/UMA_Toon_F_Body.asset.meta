@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28864c26b3f4bea4bb382e8ca1b60565
+timeCreated: 1457758109
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/RaceBase/BaseRecipe/BaseOverlays/UMA_Toon_F_Body.asset
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5dcb82ea78983cf4da0c206fc9de96ae
+timeCreated: 1437689742
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/UnityChallengerArmorSet/Slots/MaleChallengerShouderPads_Slot.asset
+  uploadId: 429914

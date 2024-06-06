@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b50583b1ad6156647a9340322eca92b2
+timeCreated: 1509634153
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Contrib/MaleHairSlick01/MaleHairSlick01_Slot.asset
+  uploadId: 429914

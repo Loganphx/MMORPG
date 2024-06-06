@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7802d45011282c6439fa68e04358b0ed
+timeCreated: 1459266118
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/Werewolf/RaceBase/Expressions/Werewolf
+    Poses/EyesDown.asset
+  uploadId: 429914

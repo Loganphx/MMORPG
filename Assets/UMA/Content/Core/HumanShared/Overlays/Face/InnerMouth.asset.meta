@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5746c09014733de4bbf208291c61aaea
+timeCreated: 1426777800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanShared/Overlays/Face/InnerMouth.asset
+  uploadId: 429914

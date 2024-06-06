@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 94fd29396cd1bd1458572dd0b3a178e4
+timeCreated: 1464644491
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/UMA DCS Tool - Photo
+    Booth.unity
+  uploadId: 429914

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5485425746189d647a627abc4e2f06e9
+timeCreated: 1426777800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Overlays/Face/SwappedHead/Human Male
+    PigNose/MaleHead_PigNose.asset
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 161a5c050c3f1f74fb47075770f15450
+timeCreated: 1458751634
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanMale/Overlays/Clothing/Wrapped Pants.asset
+  uploadId: 429914

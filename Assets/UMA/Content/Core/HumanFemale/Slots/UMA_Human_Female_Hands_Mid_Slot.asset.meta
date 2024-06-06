@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 869cee25167e44f42907bc39ae048a4a
+timeCreated: 1488741066
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanFemale/Slots/UMA_Human_Female_Hands_Mid_Slot.asset
+  uploadId: 429914

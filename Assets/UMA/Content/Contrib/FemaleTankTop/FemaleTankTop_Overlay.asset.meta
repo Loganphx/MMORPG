@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04ca452ebc325384dbd880de14092e76
+timeCreated: 1498875113
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Contrib/FemaleTankTop/FemaleTankTop_Overlay.asset
+  uploadId: 429914

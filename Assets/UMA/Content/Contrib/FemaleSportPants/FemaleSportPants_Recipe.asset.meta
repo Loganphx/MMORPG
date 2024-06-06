@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8b50bc7ad0e08e4cb785c7ccc1e9c81
+timeCreated: 1498679029
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Contrib/FemaleSportPants/FemaleSportPants_Recipe.asset
+  uploadId: 429914

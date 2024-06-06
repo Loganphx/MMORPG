@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a61b80b3ef057274e93e5d8c6a2aacec
+timeCreated: 1426777800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanFemale/Overlays/Hair/FemaleEyelash.asset
+  uploadId: 429914

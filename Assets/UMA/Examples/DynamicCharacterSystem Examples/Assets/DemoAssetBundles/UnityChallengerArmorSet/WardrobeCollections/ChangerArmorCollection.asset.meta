@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7aafef8e795d8fb4e97c5f615fff0979
+timeCreated: 1484272656
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/UnityChallengerArmorSet/WardrobeCollections/ChangerArmorCollection.asset
+  uploadId: 429914

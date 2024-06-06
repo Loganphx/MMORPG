@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f56427ed446efb4ab930c97d3076a8e
+timeCreated: 1457758109
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/RaceBase/BaseRecipe/BaseOverlays/UMA_Toon_F_Lashes.asset
+  uploadId: 429914

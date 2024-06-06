@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f57cc3e1432d6994d9ca2cd30f723bd3
+timeCreated: 1485115969
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DNAConverterController Examples/Assets/Recipes/WardrobeRecipes/MakeMeFatJeans.asset
+  uploadId: 429914

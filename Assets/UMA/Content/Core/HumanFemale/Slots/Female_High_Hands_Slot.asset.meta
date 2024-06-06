@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fff2e38737b1bc42842ab99f23ace26
+timeCreated: 1438640678
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanFemale/Slots/Female_High_Hands_Slot.asset
+  uploadId: 429914

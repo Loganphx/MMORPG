@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61ff84e89ca1f5c41856a75449025092
+timeCreated: 1426777800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanFemale/Overlays/Clothing/FemaleShirt02.asset
+  uploadId: 429914

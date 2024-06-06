@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29644edbda94cd94baecf85f3c7bf194
+timeCreated: 1457758129
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonShared/Wardrobe1/Overlays/Hair/Short_Swept_Hair_1.asset
+  uploadId: 429914

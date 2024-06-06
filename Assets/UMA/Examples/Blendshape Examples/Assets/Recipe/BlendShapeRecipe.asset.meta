@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79f076bff9f0ea840abbeda53d42de10
+timeCreated: 1489722342
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/Blendshape Examples/Assets/Recipe/BlendShapeRecipe.asset
+  uploadId: 429914

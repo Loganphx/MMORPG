@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 28c756f13cec71b49b27b4f4c0a71571
+timeCreated: 1534115270
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/SkyCar/Slots/SkyCarComponents/SkyCarComponents_Slot.asset
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83f5378151e5efe4990799b413b20f32
+timeCreated: 1466641786
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DynamicDNA/Recipes/GirlBaseGuide.asset
+  uploadId: 429914

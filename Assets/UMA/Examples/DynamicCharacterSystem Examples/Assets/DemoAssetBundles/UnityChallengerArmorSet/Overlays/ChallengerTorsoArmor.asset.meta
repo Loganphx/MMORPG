@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65954fc26eb12744384e91567ad69e60
+timeCreated: 1437690016
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/UnityChallengerArmorSet/Overlays/ChallengerTorsoArmor.asset
+  uploadId: 429914

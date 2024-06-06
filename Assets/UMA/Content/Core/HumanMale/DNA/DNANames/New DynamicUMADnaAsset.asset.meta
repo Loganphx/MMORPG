@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8eafd1689d4e75f4f832c720408ed887
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/DNA/DNANames/New DynamicUMADnaAsset.asset
+  uploadId: 429914

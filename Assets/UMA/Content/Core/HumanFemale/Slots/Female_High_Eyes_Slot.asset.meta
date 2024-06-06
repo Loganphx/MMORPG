@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 810b579078122004a94ac82abc7c2fe5
+timeCreated: 1438640665
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanFemale/Slots/Female_High_Eyes_Slot.asset
+  uploadId: 429914

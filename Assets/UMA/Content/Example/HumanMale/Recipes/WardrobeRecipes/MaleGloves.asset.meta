@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3371b0b14f340764c88dc58574e73393
+timeCreated: 1489509853
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanMale/Recipes/WardrobeRecipes/MaleGloves.asset
+  uploadId: 429914

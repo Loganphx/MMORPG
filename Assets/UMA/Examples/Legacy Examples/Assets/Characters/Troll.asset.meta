@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff711d19b586b5a43b1165082b5c878b
+timeCreated: 1483926617
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/Legacy Examples/Assets/Characters/Troll.asset
+  uploadId: 429914

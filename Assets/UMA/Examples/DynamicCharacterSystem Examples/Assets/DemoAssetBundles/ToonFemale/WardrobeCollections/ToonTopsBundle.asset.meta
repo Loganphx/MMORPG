@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ff0372b9b5862843aa7656d86dcc455
+timeCreated: 1484751785
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/WardrobeCollections/ToonTopsBundle.asset
+  uploadId: 429914

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 64c6614d653bc0e4d8b0ec1524b409b6
+timeCreated: 1486396171
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DNAConverterController Examples/Assets/Recipes/DNAConverterControllerExample
+    Base Recipe.asset
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af0f5dedaabf3e946b78b4552139b9a3
+timeCreated: 1485115966
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanMale/Recipes/WardrobeRecipes/MaleBrowHR2.asset
+  uploadId: 429914

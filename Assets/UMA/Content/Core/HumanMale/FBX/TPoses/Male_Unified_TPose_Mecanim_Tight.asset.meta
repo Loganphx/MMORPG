@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d365cfd985954e24b95ed4086155adf4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/FBX/TPoses/Male_Unified_TPose_Mecanim_Tight.asset
+  uploadId: 429914

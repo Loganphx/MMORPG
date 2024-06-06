@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74fbe497c697690488fbdfeee0fae3d6
+timeCreated: 1486411669
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Overlays/Face/M_Face_Old.asset
+  uploadId: 429914

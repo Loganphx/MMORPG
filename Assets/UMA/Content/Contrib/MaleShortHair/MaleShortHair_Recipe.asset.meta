@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e67f8d6f30659a4d9202b2e6b8809b1
+timeCreated: 1498670758
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Contrib/MaleShortHair/MaleShortHair_Recipe.asset
+  uploadId: 429914

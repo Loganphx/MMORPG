@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58f931091c1c4f24c93d1d911b8c032b
+timeCreated: 1459186429
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/Werewolf/RaceBase/BaseRecipe/BaseRecipeSlots/UMA_Werewolf_Teeth_Slot.asset
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dad7820865c0d3c4a8eac0d511fd9655
+timeCreated: 1457758109
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/RaceBase/BaseRecipe/BaseOverlays/UMA_Toon_F_Body_StarCaster.asset
+  uploadId: 429914

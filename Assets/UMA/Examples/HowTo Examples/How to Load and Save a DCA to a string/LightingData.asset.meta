@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d1538ae33791404293100da6bcdc686
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/HowTo Examples/How to Load and Save a DCA to a string/LightingData.asset
+  uploadId: 429914

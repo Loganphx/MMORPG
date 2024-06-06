@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 627b27f40405c2641aaea28fc88728ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/Physics Examples/UMA_JiggleMaster/JiggleBelly/JiggleBellyRecipe.asset
+  uploadId: 429914

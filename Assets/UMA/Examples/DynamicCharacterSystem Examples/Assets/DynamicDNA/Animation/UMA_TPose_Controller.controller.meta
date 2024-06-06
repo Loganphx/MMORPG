@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 831b46c503d9add42b15044ab2bac737
+timeCreated: 1466860271
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DynamicDNA/Animation/UMA_TPose_Controller.controller
+  uploadId: 429914

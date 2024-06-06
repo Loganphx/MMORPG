@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45b6d4db30ba89c4fbc26dbc580b78ad
+timeCreated: 1498959059
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Contrib/MaleAnkles/MaleAnkles_Slot.asset
+  uploadId: 429914

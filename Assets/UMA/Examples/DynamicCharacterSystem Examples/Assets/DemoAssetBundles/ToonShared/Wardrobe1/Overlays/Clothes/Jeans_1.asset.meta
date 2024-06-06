@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe66eff1c0defe44aa57e93eb152305a
+timeCreated: 1460045516
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonShared/Wardrobe1/Overlays/Clothes/Jeans_1.asset
+  uploadId: 429914

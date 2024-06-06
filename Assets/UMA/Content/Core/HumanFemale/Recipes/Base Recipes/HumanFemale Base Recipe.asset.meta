@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 52235af6470accd49b10f288d964a658
+timeCreated: 1485989125
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanFemale/Recipes/Base Recipes/HumanFemale
+    Base Recipe.asset
+  uploadId: 429914

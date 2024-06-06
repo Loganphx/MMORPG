@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30819781a55e5b540abd5f8a35901ca2
+timeCreated: 1426777800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanFemale/Overlays/Hair/FemaleShortHair01.asset
+  uploadId: 429914

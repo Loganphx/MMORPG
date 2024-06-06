@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 797dec1986e3f6b4bac62decc528c581
+timeCreated: 1466860984
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DynamicDNA/Recipes/FemaleToonBaseGuide.asset
+  uploadId: 429914

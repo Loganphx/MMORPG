@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a4aa7dcf25c93345972fa3a282de793
+timeCreated: 1489715385
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/Blendshape Examples/DNA/BlendShapeConverter.prefab
+  uploadId: 429914

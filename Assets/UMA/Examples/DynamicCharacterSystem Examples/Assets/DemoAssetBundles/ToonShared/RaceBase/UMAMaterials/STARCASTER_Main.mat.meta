@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2cd26ef84b4f674f92df124308bf783
+timeCreated: 1457811093
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonShared/RaceBase/UMAMaterials/STARCASTER_Main.mat
+  uploadId: 429914

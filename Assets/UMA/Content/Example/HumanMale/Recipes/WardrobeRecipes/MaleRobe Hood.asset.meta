@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8b7b033a94e0a9f4dbdded4f45aea63a
+timeCreated: 1489035888
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanMale/Recipes/WardrobeRecipes/MaleRobe
+    Hood.asset
+  uploadId: 429914

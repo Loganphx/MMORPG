@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16633319a250a1c48b9998120c0c8f8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanMale/Slots/Clothing/RobeCollection.asset
+  uploadId: 429914

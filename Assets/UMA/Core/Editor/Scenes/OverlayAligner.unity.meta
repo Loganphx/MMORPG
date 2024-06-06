@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 670cf9926876aed4cac3f3687530eab6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Core/Editor/Scenes/OverlayAligner.unity
+  uploadId: 429914

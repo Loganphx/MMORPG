@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd2eaa2d12ef9e948a1ceb4e4ac07cfb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/BonePoseSets/OverweightMale.asset
+  uploadId: 429914

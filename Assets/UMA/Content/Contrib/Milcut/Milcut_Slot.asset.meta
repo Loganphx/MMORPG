@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ccc8f1668f1d19549bf1a2fbb88a4157
+timeCreated: 1499439929
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Contrib/Milcut/Milcut_Slot.asset
+  uploadId: 429914

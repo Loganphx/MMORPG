@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c830213a9d6eef409a4b7ce0e388acf
+timeCreated: 1479182682
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanShared/Overlays/Face/Eye/EyeAdjust/Cat_eye_adjust.asset
+  uploadId: 429914

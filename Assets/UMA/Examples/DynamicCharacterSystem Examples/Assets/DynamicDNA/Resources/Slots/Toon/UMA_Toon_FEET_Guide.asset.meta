@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 356ec1d28bd925b498e3fd04cc23502c
+timeCreated: 1466860767
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DynamicDNA/Resources/Slots/Toon/UMA_Toon_FEET_Guide.asset
+  uploadId: 429914

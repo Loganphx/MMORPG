@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e7237ce6bc9c6946b66dde98daa310b
+timeCreated: 1457757397
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/RaceBase/ToonFemale.asset
+  uploadId: 429914

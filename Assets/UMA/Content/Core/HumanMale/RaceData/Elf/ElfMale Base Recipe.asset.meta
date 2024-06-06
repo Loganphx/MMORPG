@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8429ff4682ce3f34189f6a7c5da3a945
+timeCreated: 1486396171
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/RaceData/Elf/ElfMale Base Recipe.asset
+  uploadId: 429914

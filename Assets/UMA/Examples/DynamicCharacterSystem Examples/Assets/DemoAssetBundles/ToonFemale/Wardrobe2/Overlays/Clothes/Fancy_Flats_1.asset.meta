@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af723046b087198438ac4a32f7c25186
+timeCreated: 1459202386
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe2/Overlays/Clothes/Fancy_Flats_1.asset
+  uploadId: 429914

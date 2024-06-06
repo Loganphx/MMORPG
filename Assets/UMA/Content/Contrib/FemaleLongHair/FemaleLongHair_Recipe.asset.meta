@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f23297b636ef1bf41b5df17f140d9553
+timeCreated: 1498670289
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Contrib/FemaleLongHair/FemaleLongHair_Recipe.asset
+  uploadId: 429914

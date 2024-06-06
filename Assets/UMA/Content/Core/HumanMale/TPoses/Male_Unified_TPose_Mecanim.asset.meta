@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 72f9fe8838fcb4e2eba7658251ef8370
+timeCreated: 1507869321
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/TPoses/Male_Unified_TPose_Mecanim.asset
+  uploadId: 429914

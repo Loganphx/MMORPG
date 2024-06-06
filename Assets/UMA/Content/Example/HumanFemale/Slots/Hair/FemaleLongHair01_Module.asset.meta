@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce2cca2d60a3a964e96c77683b6263db
+timeCreated: 1427122033
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanFemale/Slots/Hair/FemaleLongHair01_Module.asset
+  uploadId: 429914

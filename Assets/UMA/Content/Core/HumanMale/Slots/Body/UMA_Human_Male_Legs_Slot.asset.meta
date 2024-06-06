@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2041a0dad0ad3894ea9590072acacf65
+timeCreated: 1427122044
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Slots/Body/UMA_Human_Male_Legs_Slot.asset
+  uploadId: 429914

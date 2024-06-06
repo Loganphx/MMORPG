@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: edcf92bdef3d2e04c980749f7d702647
+timeCreated: 1424395344
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/AdditionalSlots/Expressions/ExpressionSlot.asset
+  uploadId: 429914

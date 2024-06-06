@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e84b15df5103d0a419f01ffe3e77fb53
+timeCreated: 1461251560
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/UnityChallengerArmorSet/Overlays/ChallengerGlovesMetal.asset
+  uploadId: 429914

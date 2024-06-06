@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7356d4035c83d294a923daa7e8155670
+timeCreated: 1488848955
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Recipes/WardrobeRecipes/MaleLowPolyHead.asset
+  uploadId: 429914

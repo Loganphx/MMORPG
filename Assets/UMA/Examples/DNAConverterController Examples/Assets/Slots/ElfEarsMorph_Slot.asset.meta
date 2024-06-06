@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82e2d1671a9ac524d805de01b9408543
+timeCreated: 1489714387
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DNAConverterController Examples/Assets/Slots/ElfEarsMorph_Slot.asset
+  uploadId: 429914

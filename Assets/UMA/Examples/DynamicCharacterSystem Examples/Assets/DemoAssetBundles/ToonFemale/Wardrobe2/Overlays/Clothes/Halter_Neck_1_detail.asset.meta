@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ce8f2c72d5601d4881a47725978e325
+timeCreated: 1457758121
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe2/Overlays/Clothes/Halter_Neck_1_detail.asset
+  uploadId: 429914

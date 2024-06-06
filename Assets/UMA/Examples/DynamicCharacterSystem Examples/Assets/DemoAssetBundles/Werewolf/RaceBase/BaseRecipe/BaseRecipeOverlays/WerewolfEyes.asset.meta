@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b1e4f14e3922614c95b147bed97cf3a
+timeCreated: 1461255383
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/Werewolf/RaceBase/BaseRecipe/BaseRecipeOverlays/WerewolfEyes.asset
+  uploadId: 429914

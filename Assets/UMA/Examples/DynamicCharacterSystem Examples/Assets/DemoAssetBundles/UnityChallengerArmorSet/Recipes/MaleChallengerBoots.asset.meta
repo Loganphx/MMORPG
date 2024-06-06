@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b26c5d9ed90bf6c43a9eec921b777004
+timeCreated: 1485115958
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/UnityChallengerArmorSet/Recipes/MaleChallengerBoots.asset
+  uploadId: 429914

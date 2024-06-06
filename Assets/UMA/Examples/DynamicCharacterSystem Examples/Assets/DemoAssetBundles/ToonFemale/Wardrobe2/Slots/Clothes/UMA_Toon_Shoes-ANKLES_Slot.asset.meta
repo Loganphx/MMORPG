@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b1313d2a41cc8349a3ba420fced882e
+timeCreated: 1460045304
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe2/Slots/Clothes/UMA_Toon_Shoes-ANKLES_Slot.asset
+  uploadId: 429914

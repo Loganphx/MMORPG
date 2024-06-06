@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e06be47adf242924c9fff2c65c65ad5c
+timeCreated: 1489947341
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/Physics Examples/Assets/Overlays/ClothRobeSimulatedOverlay.asset
+  uploadId: 429914

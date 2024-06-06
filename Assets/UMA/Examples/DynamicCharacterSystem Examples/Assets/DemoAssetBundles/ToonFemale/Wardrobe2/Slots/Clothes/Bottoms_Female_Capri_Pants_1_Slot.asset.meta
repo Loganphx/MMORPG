@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41ad70ca423c43740a5fa85f0ef62442
+timeCreated: 1457758027
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe2/Slots/Clothes/Bottoms_Female_Capri_Pants_1_Slot.asset
+  uploadId: 429914

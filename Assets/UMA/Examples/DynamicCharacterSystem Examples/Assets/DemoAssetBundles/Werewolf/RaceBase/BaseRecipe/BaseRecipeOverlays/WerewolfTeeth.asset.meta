@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c812749c2cd1a541b79b1fe749694c2
+timeCreated: 1459182612
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/Werewolf/RaceBase/BaseRecipe/BaseRecipeOverlays/WerewolfTeeth.asset
+  uploadId: 429914

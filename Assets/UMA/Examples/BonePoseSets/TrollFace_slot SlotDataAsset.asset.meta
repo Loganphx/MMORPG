@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7035932bba9111c4991e2489ca9b744b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/BonePoseSets/TrollFace_slot SlotDataAsset.asset
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e81fb0b8a05fdfe48a4f248a0816e6cb
+timeCreated: 1457758016
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonShared/RaceBase/BaseRecipe/BaseSlots/UMA_Toon_HANDS_Slot.asset
+  uploadId: 429914

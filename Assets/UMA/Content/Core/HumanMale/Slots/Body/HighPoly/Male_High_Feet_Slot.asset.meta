@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35891113f5f78994585351984f148ffe
+timeCreated: 1438638413
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Slots/Body/HighPoly/Male_High_Feet_Slot.asset
+  uploadId: 429914

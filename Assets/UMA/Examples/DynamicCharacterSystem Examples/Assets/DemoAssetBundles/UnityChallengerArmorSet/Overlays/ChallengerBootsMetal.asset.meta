@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 850d610cf1e6f7b4eb4157fc242d5074
+timeCreated: 1461251634
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/UnityChallengerArmorSet/Overlays/ChallengerBootsMetal.asset
+  uploadId: 429914

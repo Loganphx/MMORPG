@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ec96409ed505ea41a08ee9f877fb5cc
+timeCreated: 1457758026
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe2/Slots/Clothes/Tops_Female_Halter_Neck_1_TORSO_Slot.asset
+  uploadId: 429914

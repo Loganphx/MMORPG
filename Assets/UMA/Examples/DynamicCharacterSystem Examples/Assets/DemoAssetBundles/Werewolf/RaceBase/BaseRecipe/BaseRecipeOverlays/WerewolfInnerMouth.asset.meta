@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: caea7f4665259e949a142041d05e3d94
+timeCreated: 1459182563
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/Werewolf/RaceBase/BaseRecipe/BaseRecipeOverlays/WerewolfInnerMouth.asset
+  uploadId: 429914

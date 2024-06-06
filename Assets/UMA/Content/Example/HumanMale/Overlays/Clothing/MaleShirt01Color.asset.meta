@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc78262a19833744f9ee5b3389aec814
+timeCreated: 1463762475
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanMale/Overlays/Clothing/MaleShirt01Color.asset
+  uploadId: 429914

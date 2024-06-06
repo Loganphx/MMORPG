@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4559a01221d4aa540bb720979b99c28f
+timeCreated: 1439222155
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Overlays/Complexion/Body Freckles.asset
+  uploadId: 429914

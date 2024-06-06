@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0a6da9a09ab5f942ba9036cab290197
+timeCreated: 1466637473
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DynamicDNA/Prefabs/DynamicDNAConverterBahaviourPrefab.prefab
+  uploadId: 429914

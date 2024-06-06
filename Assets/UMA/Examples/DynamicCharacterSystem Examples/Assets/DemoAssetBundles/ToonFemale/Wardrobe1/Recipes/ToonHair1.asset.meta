@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7208f8cc5e698b74ca3fc08abfb29cc6
+timeCreated: 1485115955
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe1/Recipes/ToonHair1.asset
+  uploadId: 429914

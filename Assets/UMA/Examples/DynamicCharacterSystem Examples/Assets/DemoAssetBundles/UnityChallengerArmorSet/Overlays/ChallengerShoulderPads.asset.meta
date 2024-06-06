@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a97f7b1d9168ddc45b0479097ad7ea09
+timeCreated: 1437689954
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/UnityChallengerArmorSet/Overlays/ChallengerShoulderPads.asset
+  uploadId: 429914

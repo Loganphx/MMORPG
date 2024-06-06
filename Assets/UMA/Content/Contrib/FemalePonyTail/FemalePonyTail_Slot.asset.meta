@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f4fa762be2c12049baf6abfea653205
+timeCreated: 1499312616
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Contrib/FemalePonyTail/FemalePonyTail_Slot.asset
+  uploadId: 429914

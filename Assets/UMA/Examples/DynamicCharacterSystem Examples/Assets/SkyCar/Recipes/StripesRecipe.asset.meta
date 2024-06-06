@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 72fba4c50655ea2428415b2a0debc752
+timeCreated: 1534176342
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/SkyCar/Recipes/StripesRecipe.asset
+  uploadId: 429914

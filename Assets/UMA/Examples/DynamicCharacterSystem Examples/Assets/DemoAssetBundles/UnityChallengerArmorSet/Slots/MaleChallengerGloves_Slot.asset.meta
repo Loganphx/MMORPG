@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 073bb8d1e3dc03140ada534c06d42dff
+timeCreated: 1437689727
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/UnityChallengerArmorSet/Slots/MaleChallengerGloves_Slot.asset
+  uploadId: 429914

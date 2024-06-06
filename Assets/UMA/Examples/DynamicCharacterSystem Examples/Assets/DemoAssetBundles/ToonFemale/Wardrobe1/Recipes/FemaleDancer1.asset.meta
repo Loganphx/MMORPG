@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9efb006a5766e44eaee370645501a9f
+timeCreated: 1485115954
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe1/Recipes/FemaleDancer1.asset
+  uploadId: 429914

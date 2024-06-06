@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d5b18e80d2535844879d53c43fe72ef
+timeCreated: 1457815531
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/RaceBase/BaseRecipe/BaseSlots/UMA_Toon_FACE_STARCASTER-Female_Slot.asset
+  uploadId: 429914

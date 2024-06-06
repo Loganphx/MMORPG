@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7432026abcc621b4f9b72ce698b0e1c3
+timeCreated: 1466642216
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DynamicDNA/Resources/Slots/FemaleEyelashGuide.asset
+  uploadId: 429914

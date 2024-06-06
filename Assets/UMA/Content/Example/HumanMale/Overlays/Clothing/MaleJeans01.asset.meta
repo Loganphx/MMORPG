@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65887f0e5072b8b499a7760e4392741d
+timeCreated: 1426777800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanMale/Overlays/Clothing/MaleJeans01.asset
+  uploadId: 429914

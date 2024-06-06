@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ed11744a54425247b40c4f8967bdcbd
+timeCreated: 1463848685
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/RaceData/Legacy/Human Male DCS.asset
+  uploadId: 429914

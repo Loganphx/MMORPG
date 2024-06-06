@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7c7a68f26d49a4046b039854e10a7751
+timeCreated: 1485989125
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanFemale/RaceData/Elf/Elf Female Base Race
+    Recipe.asset
+  uploadId: 429914

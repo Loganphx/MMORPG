@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c8093fd4489d1d46a72b9e5165f8106
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/Physics Examples/UMA_JiggleMaster/JiggleBreasts/JiggleBreastsSlot.asset
+  uploadId: 429914

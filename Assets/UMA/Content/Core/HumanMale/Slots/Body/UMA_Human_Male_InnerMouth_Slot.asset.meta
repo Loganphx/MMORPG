@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc6c17656f669be4bbb2e21d48e57a45
+timeCreated: 1427122043
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Slots/Body/UMA_Human_Male_InnerMouth_Slot.asset
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe30fbf67b51de8499624c6913a39e64
+timeCreated: 1491092903
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Core/DefaultMissingOverlays/DefaultStandardOverlayDataAsset.asset
+  uploadId: 429914

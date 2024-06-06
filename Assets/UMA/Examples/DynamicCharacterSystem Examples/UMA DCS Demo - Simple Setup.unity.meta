@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 43ce2d3e5bdfc924b84fc85a02c01ca0
+timeCreated: 1472836449
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/UMA DCS Demo - Simple
+    Setup.unity
+  uploadId: 429914

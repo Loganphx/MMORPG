@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96efa554e673f0c40ba212cde7477926
+timeCreated: 1427122040
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Slots/Body/MaleSwappedHead/UMA_Human_Male_Head_Ears_Slot.asset
+  uploadId: 429914

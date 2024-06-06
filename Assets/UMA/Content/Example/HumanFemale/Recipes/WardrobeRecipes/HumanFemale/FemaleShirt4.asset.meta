@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 559b2b2430ebcd74b9c9c25f0341d887
+timeCreated: 1485115962
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanFemale/Recipes/WardrobeRecipes/HumanFemale/FemaleShirt4.asset
+  uploadId: 429914

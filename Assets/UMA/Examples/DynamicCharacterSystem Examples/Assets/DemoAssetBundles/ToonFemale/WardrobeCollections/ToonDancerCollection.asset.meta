@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9906f7cba15a424b9b1ec1caeb85c6b
+timeCreated: 1484268475
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/WardrobeCollections/ToonDancerCollection.asset
+  uploadId: 429914

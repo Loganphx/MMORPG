@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 407823accaae39a4a902c6e4b2bfa383
+timeCreated: 1479760495
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanFemale/Slots/UMA_Human_Female_Eyebrows_Mid_Slot.asset
+  uploadId: 429914

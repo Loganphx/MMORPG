@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 297b82798f9c2de4b891d273268dd65b
+timeCreated: 1457758034
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe1/Slots/Hair/Hair_Long_Braided_Hair_1_Slot.asset
+  uploadId: 429914

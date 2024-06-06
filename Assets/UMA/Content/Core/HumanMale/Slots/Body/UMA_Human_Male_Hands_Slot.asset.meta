@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 881f10d72572db34cb1150ac3df21a97
+timeCreated: 1427122043
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Slots/Body/UMA_Human_Male_Hands_Slot.asset
+  uploadId: 429914

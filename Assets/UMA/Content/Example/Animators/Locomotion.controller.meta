@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: eb280940c811fab4a9e3ddf09381c343
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/Animators/Locomotion.controller
+  uploadId: 429914

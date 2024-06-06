@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 243d280e746e2424cad7532cf8ef32d6
+timeCreated: 1540403588
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Core/Editor/Scripts/LegacyDynamicDNAConverterGUIDrawer.cs
+  uploadId: 429914

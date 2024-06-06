@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59308c77f6c5a374da628a837b7d3401
+timeCreated: 1491618675
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanFemale/RaceData/Human Female HighPoly.asset
+  uploadId: 429914

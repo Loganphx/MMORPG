@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75c644aea29a64b45b586e1948e90235
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Expressions/Male Poses/Grasp/RightGrasp.asset
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be7c02d6f94052348a3fc382a4ff26dc
+timeCreated: 1489947208
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/Physics Examples/Assets/Recipe/ClothRobeRecipe.asset
+  uploadId: 429914

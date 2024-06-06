@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31a3361c6d7b5464c9f17bf3bc570852
+timeCreated: 1465665473
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanFemale/Slots/UMA_Human_Female_Head_AnimeElvenEars_Slot.asset
+  uploadId: 429914

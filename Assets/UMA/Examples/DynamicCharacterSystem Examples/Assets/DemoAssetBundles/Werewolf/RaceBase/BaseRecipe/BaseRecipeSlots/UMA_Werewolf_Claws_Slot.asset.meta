@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cda4a55bec197c646a1e3e11583d7ef4
+timeCreated: 1459186428
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/Werewolf/RaceBase/BaseRecipe/BaseRecipeSlots/UMA_Werewolf_Claws_Slot.asset
+  uploadId: 429914

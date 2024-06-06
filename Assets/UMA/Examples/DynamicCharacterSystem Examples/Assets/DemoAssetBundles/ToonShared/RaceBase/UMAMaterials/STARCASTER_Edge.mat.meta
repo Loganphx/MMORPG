@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8639524095142e45bd71dd43b5e5c03
+timeCreated: 1457811093
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonShared/RaceBase/UMAMaterials/STARCASTER_Edge.mat
+  uploadId: 429914

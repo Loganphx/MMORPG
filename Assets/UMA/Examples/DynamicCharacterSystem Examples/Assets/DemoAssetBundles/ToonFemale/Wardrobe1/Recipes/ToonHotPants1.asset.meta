@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f5551a2d6fa12349a77ceebf09fbfab
+timeCreated: 1485115956
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe1/Recipes/ToonHotPants1.asset
+  uploadId: 429914

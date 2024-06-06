@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98b05b17b4e8ff142b1f16df2ef2315b
+timeCreated: 1439003540
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanShared/Overlays/Face/Eye/Eye Overlay.asset
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10329f729c6ed4b4795e6c1986c8a496
+timeCreated: 1426777800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Example/HumanMale/Overlays/Hair/MaleHair01.asset
+  uploadId: 429914

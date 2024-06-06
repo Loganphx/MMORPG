@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 333cdac71ded22f46b6a0de15b091978
+timeCreated: 1459521039
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe1/Overlays/Clothes/Female_Underwear_1.asset
+  uploadId: 429914

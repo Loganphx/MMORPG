@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1502ce9ef533aa42a647fe4052e15f8
+timeCreated: 1466120175
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanFemale/DNA/DNANames/HumanFemaleDNA 1.asset
+  uploadId: 429914

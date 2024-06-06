@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aac157e1fa7cc19409b60b0f1b970211
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanFemale/DNA/LegacyDNA/HumanFemaleDNAConverterBehaviour.cs
+  uploadId: 429914

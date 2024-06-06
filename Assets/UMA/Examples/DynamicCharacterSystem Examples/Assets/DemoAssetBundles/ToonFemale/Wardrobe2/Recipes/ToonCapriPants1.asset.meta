@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03e725a9262c64446b222b3a045c45c4
+timeCreated: 1485115956
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonFemale/Wardrobe2/Recipes/ToonCapriPants1.asset
+  uploadId: 429914

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfe28ca7dc07e7b479409c317f724978
+timeCreated: 1446483414
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/DemoAssetBundles/ToonShared/RaceBase/Expressions/ToonPoses/BrowInnerUp.asset
+  uploadId: 429914

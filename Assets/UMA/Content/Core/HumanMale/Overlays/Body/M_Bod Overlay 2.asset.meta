@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9dc97ec6d7fc0f46ae9f479ce051897
+timeCreated: 1486323382
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2 - Unity Multipurpose Avatar
+  packageVersion: 2.12
+  assetPath: Assets/UMA/Content/Core/HumanMale/Overlays/Body/M_Bod Overlay 2.asset
+  uploadId: 429914
