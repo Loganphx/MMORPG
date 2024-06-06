@@ -5,7 +5,17 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 1a57353e9aa446f48ae40250ab820dc3
+  - enabled: 1
+    path: Assets/Scenes/RealmSelection.unity
+    guid: 9b611c76e518972488fbbc49e6b6faa1
+  - enabled: 1
+    path: Assets/Scenes/Character/CharacterCreation.unity
+    guid: 628cde805277140449079450ec52d563
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
