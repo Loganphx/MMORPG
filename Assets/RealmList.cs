@@ -35,7 +35,7 @@ public class RealmList : MonoBehaviour
             Region = "US"
         });
 
-        var realmListResponsePackage = _clientConnectionDispatcher.WaitForPackage<RealmListResponsePackage>().Result;
+        var realmListResponsePackage = await _clientConnectionDispatcher.WaitForPackage<RealmListResponsePackage>();
 
         Debug.Log($"Received {realmListResponsePackage.Realms.Count} Realms");
         await Awaitable.MainThreadAsync();

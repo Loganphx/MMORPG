@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using DefaultNamespace;
 using Microsoft.Extensions.DependencyInjection;
+using Networking;
 using Networking.PackageParser;
 using Networking.PackageParser.PackageImplementations;
 using TMPro;
@@ -17,7 +18,7 @@ public class  ClientManager : MonoBehaviour
     [SerializeField] public TMP_Text errorText;
 
     // private readonly IPackageParser _packageParser;
-    private readonly ClientConnection _clientConnection;
+    private readonly NetworkConnection _clientConnection;
     private readonly ClientConnectionDispatcher _clientConnectionDispatcher;
     private readonly MenuManager _menuManager;
 
@@ -39,7 +40,7 @@ public class  ClientManager : MonoBehaviour
 
     public ClientManager()
     {
-        _clientConnection = GameContext.ServiceProvider.GetRequiredService<ClientConnection>();
+        _clientConnection = GameContext.ServiceProvider.GetRequiredService<NetworkConnection>();
         _clientConnectionDispatcher = GameContext.ServiceProvider.GetRequiredService<ClientConnectionDispatcher>();
     }
 
@@ -67,11 +68,9 @@ public class  ClientManager : MonoBehaviour
             Password = password
         });
         
-        var packageData = _clientConnectionDispatcher.WaitForPackage<LoginResponsePackage>().Result;
-        Debug.Log($"Received {packageData.GetType()}");
-        // await Awaitable.MainThreadAsync();
+        var loginResponseData = await _clientConnectionDispatcher.WaitForPackage<LoginResponsePackage>();
 
-        if (!packageData.IsValid)
+        if (!loginResponseData.IsValid)
         {
             
             await Awaitable.MainThreadAsync();
@@ -84,8 +83,6 @@ public class  ClientManager : MonoBehaviour
             await Awaitable.WaitForSecondsAsync(5);
             await t.RealmSelectionMenu();
         }
-        // if(packageData.IsValid) t.RaceSelectionMenu();
-        // else Debug.Log("<color=red>Failed to Login.</color>");
     }
 
     public async void Select_Realm(int realmId)
@@ -105,8 +102,8 @@ public class  ClientManager : MonoBehaviour
             RealmId = realmId,
         });
 
-        var packageData = _clientConnectionDispatcher.WaitForPackage<RealmResponsePackage>().Result;
-        Debug.Log($"Receive Realm Response Package - {packageData.GetType()}");
+        var packageData = await _clientConnectionDispatcher.WaitForPackage<RealmResponsePackage>();
+        Debug.Log($"Receive Realm Response Package - {packageData.RealmId}, {packageData.CharacterCount} Characters");
 
         RealmIdText = packageData.RealmId.ToString();
 
@@ -116,7 +113,19 @@ public class  ClientManager : MonoBehaviour
         
         var t = GetComponentInChildren<MenuManager>(true);
 
-        if (charExists) await t.CharacterSelectionMenu();
+        await Awaitable.WaitForSecondsAsync(2);
+        if (packageData.CharacterCount > 0) await t.CharacterSelectionMenu();
         else await t.CharacterCreationMenu();
+    }
+
+    public async Awaitable SaveCharacter(string characterName, string umaRecipeData)
+    {
+        await Awaitable.BackgroundThreadAsync();
+
+        _clientConnectionDispatcher.SendPackage(new CharacterCreationRequestPackage()
+        {
+            CharacterName = characterName,
+            UmaRecipe = umaRecipeData,
+        });
     }
 }

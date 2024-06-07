@@ -1,6 +1,10 @@
 using System;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+using Networking;
 using Networking.PackageParser;
+using UnityEngine;
+using ILogger = Microsoft.Extensions.Logging.ILogger;
 
 namespace DefaultNamespace
 {
@@ -11,7 +15,7 @@ namespace DefaultNamespace
             ConfigService = ConfigurationService.CreateInstance(s =>
             {
                 s.AddSingleton<IPackageParser, PackageParser>();
-                s.AddSingleton<ClientConnection>();
+                s.AddSingleton<NetworkConnection>();
                 s.AddSingleton<ClientConnectionDispatcher>();
             });
         }
