@@ -1,38 +1,40 @@
+using System;
 using System.Reflection;
 
-namespace Networking;
-
-public abstract class ConnectionHandlerBase<T>
+namespace Networking
 {
-    protected abstract void HandleUnknownPackage(T connection, object parsedData, CommuncationPackage type);
-
-    public void InvokeAction(T connection, object parsedData, CommuncationPackage type)
+    public abstract class ConnectionHandlerBase<T>
     {
-        foreach (var method in GetType().GetMethods())
+        protected abstract void HandleUnknownPackage(T connection, object parsedData, CommuncationPackage type);
+
+        public void InvokeAction(T connection, object parsedData, CommuncationPackage type)
         {
-            var attribute = method.GetCustomAttribute<PackageHandlerAttribute>();
-            
-            if(attribute == null) continue;
-
-            if (attribute.Type == type)
+            foreach (var method in GetType().GetMethods())
             {
-                method.Invoke(this, new object?[] { connection, parsedData });
-                return;
+                var attribute = method.GetCustomAttribute<PackageHandlerAttribute>();
+            
+                if(attribute == null) continue;
+
+                if (attribute.Type == type)
+                {
+                    method.Invoke(this, new object?[] { connection, parsedData });
+                    return;
+                }
             }
+
+            HandleUnknownPackage(connection, parsedData, type);
         }
-
-        HandleUnknownPackage(connection, parsedData, type);
     }
-}
 
-[AttributeUsage(AttributeTargets.Method)]
-public class PackageHandlerAttribute : Attribute
-{
-    public readonly CommuncationPackage Type;
-
-    public PackageHandlerAttribute(CommuncationPackage type)
+    [AttributeUsage(AttributeTargets.Method)]
+    public class PackageHandlerAttribute : Attribute
     {
-        Type = type;
-    }
+        public readonly CommuncationPackage Type;
+
+        public PackageHandlerAttribute(CommuncationPackage type)
+        {
+            Type = type;
+        }
     
+    }
 }

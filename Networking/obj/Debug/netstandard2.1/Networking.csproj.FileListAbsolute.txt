@@ -1,0 +1,10 @@
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Debug\netstandard2.1\Networking.csproj.AssemblyReference.cache
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Debug\netstandard2.1\Networking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Debug\netstandard2.1\Networking.AssemblyInfoInputs.cache
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Debug\netstandard2.1\Networking.AssemblyInfo.cs
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Debug\netstandard2.1\Networking.csproj.CoreCompileInputs.cache
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\bin\Debug\netstandard2.1\Networking.deps.json
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\bin\Debug\netstandard2.1\Networking.dll
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\bin\Debug\netstandard2.1\Networking.pdb
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Debug\netstandard2.1\Networking.dll
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Debug\netstandard2.1\Networking.pdb

@@ -1,7 +1,10 @@
-namespace Networking.PackageParser;
+using System.IO;
 
-public interface IPackageParser
+namespace Networking.PackageParser
 {
-    PackageBase ParsePackageFromStream(BinaryReader reader);
-    void ParsePackageToStream(PackageBase package, BinaryWriter writer);
+    public interface IPackageParser
+    {
+        PackageBase ParsePackageFromStream(BinaryReader reader);
+        void ParsePackageToStream(PackageBase package, BinaryWriter writer);
+    }    
 }

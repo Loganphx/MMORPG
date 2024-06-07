@@ -1,15 +1,22 @@
-namespace Networking.PackageParser.PackageImplementations;
+using System.IO;
 
-[PackageType(CommuncationPackage.KEEPALIVE)]
-public class KeepAlivePackage() : PackageBase(CommuncationPackage.KEEPALIVE)
+namespace Networking.PackageParser.PackageImplementations
 {
-    public override void DeserializeFromStream(BinaryReader reader)
+    [PackageType(CommuncationPackage.KEEPALIVE)]
+    public class KeepAlivePackage : PackageBase
     {
+        public KeepAlivePackage() : base(CommuncationPackage.KEEPALIVE)
+        {
+            
+        }
+        public override void DeserializeFromStream(BinaryReader reader)
+        {
         
-    }
+        }
 
-    public override void SerializeToStream(BinaryWriter writer)
-    {
-        writer.Write((uint)Id);
+        public override void SerializeToStream(BinaryWriter writer)
+        {
+            writer.Write((uint)Id);
+        }
     }
 }

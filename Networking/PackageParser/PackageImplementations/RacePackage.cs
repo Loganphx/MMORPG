@@ -1,31 +1,50 @@
-namespace Networking.PackageParser.PackageImplementations;
+using System.IO;
 
-public class RaceRequestPackage() : PackageBase(CommuncationPackage.RACE_REQUEST)
+namespace Networking.PackageParser.PackageImplementations
 {
-    public int RaceId { get; set; }
-    public override void SerializeToStream(BinaryWriter writer)
+    [PackageType(CommuncationPackage.REALM_REQUEST)]
+    public class RealmRequestPackage : PackageBase
     {
-        writer.Write((uint)Id);
-        writer.Write((int)RaceId);
+        public int RealmId { get; set; }
+
+        public RealmRequestPackage() : base(CommuncationPackage.REALM_REQUEST)
+        {
+        
+        }
+
+        public override void SerializeToStream(BinaryWriter writer)
+        {
+            writer.Write((uint)Id);
+            writer.Write((int)RealmId);
+        }
+
+        public override void DeserializeFromStream(BinaryReader reader)
+        {
+            RealmId = reader.ReadInt32();
+        }
     }
 
-    public override void DeserializeFromStream(BinaryReader reader)
+    [PackageType(CommuncationPackage.REALM_RESPONSE)]
+    public class RealmResponsePackage : PackageBase
     {
-        RaceId = reader.ReadInt32();
-    }
-}
+        public RealmResponsePackage() : base(CommuncationPackage.REALM_RESPONSE)
+        {
+            
+        }
+        public int RealmId { get; set; }
+        public int CharacterCount { get; set; }
 
-public class RaceResponsePackage() : PackageBase(CommuncationPackage.RACE_RESPONSE)
-{
-    public int RaceId { get; set; }
-    public override void SerializeToStream(BinaryWriter writer)
-    {
-        writer.Write((uint)Id);
-        writer.Write((int)RaceId);
-    }
+        public override void SerializeToStream(BinaryWriter writer)
+        {
+            writer.Write((uint)Id);
+            writer.Write(RealmId);
+            writer.Write(CharacterCount);
+        }
 
-    public override void DeserializeFromStream(BinaryReader reader)
-    {
-        RaceId = reader.ReadInt32();
+        public override void DeserializeFromStream(BinaryReader reader)
+        {
+            RealmId = reader.ReadInt32();
+            CharacterCount = reader.ReadInt32();
+        }
     }
 }

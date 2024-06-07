@@ -1,56 +1,78 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 using System.Reflection;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace Networking.PackageParser;
-
-public class PackageParser : IPackageParser
+namespace Networking.PackageParser
 {
-
-    private readonly ILogger<PackageParser> _logger;
-    private Dictionary<CommuncationPackage, Type> packageTypes = new Dictionary<CommuncationPackage, Type>();
-
-    public PackageParser(ILogger<PackageParser> logger)
+    public class PackageParser : IPackageParser
     {
-        this._logger = logger;
-        ResolvePackage();
-    }
+        private readonly ILogger<PackageParser> _logger;
+        private Dictionary<CommuncationPackage, Type> packageTypes = new Dictionary<CommuncationPackage, Type>();
 
-    private void ResolvePackage()
-    {
-        var packageClasses = GetType().Assembly
-            .GetTypes()
-            .Where(x => x.IsSubclassOf(typeof(PackageBase)));
-
-        foreach (var classType in packageClasses)
+        public PackageParser(ILogger<PackageParser> logger)
         {
-            var attribute = classType.GetCustomAttributes(typeof(PackageTypeAttribute), false);
+            this._logger = logger;
+            ResolvePackage();
+        }
 
-            if (attribute.FirstOrDefault() is PackageTypeAttribute packageTypeAttribute)
+        private void ResolvePackage()
+        {
+            var packageClasses = GetType().Assembly
+                .GetTypes()
+                .Where(x => x.IsSubclassOf(typeof(PackageBase)));
+
+            foreach (var classType in packageClasses)
             {
-                packageTypes.Add(packageTypeAttribute.PackageType, classType);
+                var attribute = classType.GetCustomAttributes(typeof(PackageTypeAttribute), false);
+
+                if (attribute.FirstOrDefault() is PackageTypeAttribute packageTypeAttribute)
+                {
+                    _logger.LogInformation($"Found Package Type - {packageTypeAttribute.PackageType}");
+                    packageTypes.Add(packageTypeAttribute.PackageType, classType);
+                }
             }
-        }
-        
-        _logger.LogInformation($"Scanned {packageTypes.Count} Package Types");
-    }
-    public PackageBase ParsePackageFromStream(BinaryReader reader)
-    {
-        var packageType = (CommuncationPackage)reader.ReadUInt32();
 
-        if (packageTypes.TryGetValue(packageType, out var type))
+            _logger.LogInformation($"Scanned {packageTypes.Count} Package Types");
+        }
+
+        public PackageBase ParsePackageFromStream(BinaryReader reader)
         {
-            var package = Activator.CreateInstance(type) as PackageBase;
-            package!.DeserializeFromStream(reader);
-            _logger.LogInformation($"Received package from stream type: {package.GetType()}");
+            var packageType = (CommuncationPackage)reader.ReadUInt32();
+
+            if (packageTypes.TryGetValue(packageType, out var type))
+            {
+                var package = Activator.CreateInstance(type) as PackageBase;
+                package!.DeserializeFromStream(reader);
+                _logger.LogInformation($"Received package from stream type: {package.GetType()}");
+                return package;
+            }
+
+            throw new InvalidOperationException($"Package {packageType} is unknown");
         }
 
-        throw new InvalidOperationException("Package is unknown");
+        public void ParsePackageToStream(PackageBase package, BinaryWriter writer)
+        {
+            _logger.LogInformation($"Write Package to Stream Type: {package.GetType()}");
+            package.SerializeToStream(writer);
+            writer.Flush();
+        }
     }
 
-    public void ParsePackageToStream(PackageBase package, BinaryWriter writer)
+    public class PackageParserOptions
     {
-        _logger.LogInformation($"Write Package to Stream Type: {package.GetType()}");
-        package.SerializeToStream(writer);
-        writer.Flush();
+        public IEnumerable<Assembly> Assemblies { get; set; }
+    }
+
+    public static class PackageParserDiExtensions
+    {
+        public static void AddPackageParser(this IServiceCollection serviceDescriptors,
+            IEnumerable<Assembly> assembies = null)
+        {
+            
+        }
     }
 }

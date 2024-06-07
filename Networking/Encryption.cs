@@ -1,14 +1,16 @@
-namespace Networking;
-
-public class Encryption
+namespace Networking
 {
-    public static string HashPassword(string password)
+    public class Encryption
     {
-        return BCrypt.Net.BCrypt.HashPassword(password);
-    }
+        public static string HashPassword(string password)
+        {
+            return BCrypt.Net.BCrypt.HashPassword(password);
+        }
 
-    public static bool ValidatePassword(string password, string correctHash)
-    {
-        return BCrypt.Net.BCrypt.Verify(password, correctHash);
+        public static bool ValidatePassword(string password, string correctHash)
+        {
+            return BCrypt.Net.BCrypt.Verify(password, correctHash);
+        }
     }
 }
+

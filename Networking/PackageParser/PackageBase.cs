@@ -1,26 +1,31 @@
-namespace Networking.PackageParser;
+using System;
+using System.IO;
 
-public abstract class PackageBase
+namespace Networking.PackageParser
 {
-    public CommuncationPackage Id { get; }
-
-    public PackageBase(CommuncationPackage id)
+    public abstract class PackageBase
     {
-        Id = id;
+        public CommuncationPackage Id { get; }
+
+        public PackageBase(CommuncationPackage id)
+        {
+            Id = id;
+        }
+
+        public abstract void SerializeToStream(BinaryWriter writer);
+
+        public abstract void DeserializeFromStream(BinaryReader reader);
     }
 
-    public abstract void SerializeToStream(BinaryWriter writer);
-
-    public abstract void DeserializeFromStream(BinaryReader reader);
-}
-
-[AttributeUsage(AttributeTargets.Class, AllowMultiple = false)]
-public class PackageTypeAttribute: Attribute
-{
-    public CommuncationPackage PackageType { get; }
-
-    public PackageTypeAttribute(CommuncationPackage type)
+    [AttributeUsage(AttributeTargets.Class, AllowMultiple = false)]
+    public class PackageTypeAttribute: Attribute
     {
-        PackageType = type;
+        public CommuncationPackage PackageType { get; }
+
+        public PackageTypeAttribute(CommuncationPackage type)
+        {
+            PackageType = type;
+        }
     }
 }
+

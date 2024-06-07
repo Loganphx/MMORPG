@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\logan\\UnityProjects\\MMORPG\\Networking\\Networking.csproj": {}
+    "C:\\Users\\logan\\RiderProjects\\MMORPG\\MMORPG\\Networking\\Networking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\logan\\UnityProjects\\MMORPG\\Networking\\Networking.csproj": {
+    "C:\\Users\\logan\\RiderProjects\\MMORPG\\MMORPG\\Networking\\Networking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\logan\\UnityProjects\\MMORPG\\Networking\\Networking.csproj",
+        "projectUniqueName": "C:\\Users\\logan\\RiderProjects\\MMORPG\\MMORPG\\Networking\\Networking.csproj",
         "projectName": "Networking",
-        "projectPath": "C:\\Users\\logan\\UnityProjects\\MMORPG\\Networking\\Networking.csproj",
+        "projectPath": "C:\\Users\\logan\\RiderProjects\\MMORPG\\MMORPG\\Networking\\Networking.csproj",
         "packagesPath": "C:\\Users\\logan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\logan\\UnityProjects\\MMORPG\\Networking\\obj\\",
+        "outputPath": "C:\\Users\\logan\\RiderProjects\\MMORPG\\MMORPG\\Networking\\obj\\",
         "projectStyle": "PackageReference",
+        "crossTargeting": true,
         "configFilePaths": [
           "C:\\Users\\logan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net8.0",
+          "netstandard2.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
@@ -25,6 +27,10 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
+            "projectReferences": {}
+          },
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -42,21 +48,9 @@
               "target": "Package",
               "version": "[1.6.0, )"
             },
-            "Microsoft.Extensions.Configuration": {
+            "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
-              "version": "[9.0.0-preview.4.24266.19, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[9.0.0-preview.4.24266.19, )"
-            },
-            "Microsoft.Extensions.Logging": {
-              "target": "Package",
-              "version": "[9.0.0-preview.4.24266.19, )"
-            },
-            "Microsoft.Extensions.Logging.Console": {
-              "target": "Package",
-              "version": "[9.0.0-preview.4.24266.19, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -76,6 +70,36 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        },
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "BCrypt.Net-Core": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

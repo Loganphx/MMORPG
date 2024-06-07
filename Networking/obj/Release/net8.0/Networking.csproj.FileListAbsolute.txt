@@ -1,0 +1,13 @@
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\bin\Release\net8.0\Networking.deps.json
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\bin\Release\net8.0\Networking.dll
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\bin\Release\net8.0\Networking.pdb
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Release\net8.0\Networking.csproj.AssemblyReference.cache
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Release\net8.0\Networking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Release\net8.0\Networking.AssemblyInfoInputs.cache
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Release\net8.0\Networking.AssemblyInfo.cs
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Release\net8.0\Networking.csproj.CoreCompileInputs.cache
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Release\net8.0\Networking.dll
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Release\net8.0\refint\Networking.dll
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Release\net8.0\Networking.pdb
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\obj\Release\net8.0\ref\Networking.dll
+C:\Users\logan\RiderProjects\MMORPG\MMORPG\Networking\bin\Release\net8.0\config.json
